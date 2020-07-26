@@ -1,0 +1,2 @@
+# Style-transfer
+Style transfer is a fun technique in deep learning. Style Transfer refers to a class of software algorithms that manipulate digital images, or videos, to adopt the appearance or visual style of another image. Style Transfer is a process in which we strive to modify the style of an image while preserving its content. Given an input image and a style image, we can compute an output image with the original content but a new style.
